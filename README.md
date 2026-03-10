@@ -63,5 +63,5 @@ pip install groq
 3. Run the notebook:
 
 ```id="chatbot_notebook_run"
-llm_chatbot_conversation_memory.ipynb
+llm-chatbot-conversation-memory.ipynb
 ```
